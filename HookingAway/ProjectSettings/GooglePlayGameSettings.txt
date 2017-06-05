@@ -1,2 +1,0 @@
-lastUpgrade=00938a
-proj.pluginVersion=0.9.38a
